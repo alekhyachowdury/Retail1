@@ -1,5 +1,0 @@
-FROM aalekhyachowdhury/react-retail1
-
-WORKDIR "/retail"
-
-CMD "npm start"
