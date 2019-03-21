@@ -1,4 +1,8 @@
-FROM alekhyachowdhury/react-retail1:latest
+FROM node:latest
+
+WORKDIR /retail
+
+COPY retail1 retail1
 
 WORKDIR /retail/retail1
 
