@@ -64,7 +64,7 @@ handleSubmit(e)
 			 		  return (
 							<div className="App" align="left">
 								<div className="App-header"> 
-									<h1>Grocery Shopping Suggestions</h1>
+									<h1>Grocery Shopping Suggestion</h1>
 								</div>
 							<hr/>
 							<div> 
